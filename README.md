@@ -28,5 +28,3 @@ def print_receipt():
         check_sum = 0
         check_number += 1
 
-
-# proj
